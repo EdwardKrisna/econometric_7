@@ -40,9 +40,3 @@ scipy
 
 ## Results
 The SARIMAX model successfully addressed serial correlation (Breusch-Godfrey test p-value: 0.314), providing reliable estimates of relationships between economic indicators.
-
-## Contributors
-[Your Name]
-
-## License
-[Choose appropriate license]
